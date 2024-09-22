@@ -227,3 +227,7 @@ body::before{
     /* text-align: center; */
     padding-left: 19px;
 }
+.condition-txt{
+    padding-left: 0px;
+
+}

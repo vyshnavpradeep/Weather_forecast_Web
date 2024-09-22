@@ -33,6 +33,8 @@ body::before {
 
 .regular-txt {
     font-weight: 400;
+    padding-right: 100px;
+    padding-left: 0%;
 }
 
 .main-container {
@@ -127,14 +129,11 @@ body::before {
     padding-right: 27px;
 }
 
-.weather-condition-container {
+/* .weather-condition-container {
     display: flex;
     justify-content: center;
-}
+} */
 
-.regular-txt {
-    padding-right: 25px;
-}
 
 .wind-value-txt {
     padding-right: 25px;
@@ -212,10 +211,12 @@ body::before {
     text-align: center;
     gap: 15px;
     margin-top: 25%;
-    padding-bottom: 70px;
+    /* padding-bottom: 70px; */
 }
 
 .section-message img {
     height: 180px;
     width: fit-content;
 }
+
+
